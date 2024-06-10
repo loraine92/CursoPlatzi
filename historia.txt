@@ -1,3 +1,3 @@
 Texto para el curso de Git y GitHub de Platzi.
-Para completas la ruta de backend con python.
+Para completar la ruta de backend con python.
 :)
